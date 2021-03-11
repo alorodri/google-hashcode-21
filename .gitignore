@@ -33,3 +33,5 @@
 
 *.tlog
 *.idb
+*.pdb
+*.lastbuildstate
